@@ -1,0 +1,30 @@
+h1,
+h3,
+h5 {
+    color: gold;
+}
+h2,
+h4,
+h6 {
+    color: green;
+}
+
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url('images/image3.jpeg'); 
+    background-repeat: round;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+
+    /* background: bisque url(image1.jpeg) no-repeat right top; */
+}
+
+#first-heading {
+    color:aliceblue;
+}
+
+.blue-color {
+    color: blue;
+}
