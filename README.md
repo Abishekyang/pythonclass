@@ -3,3 +3,4 @@
 1. PYTHON
 2. HTML AND CSS
 3. DJANGO
+4. Javascript
